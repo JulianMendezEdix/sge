@@ -1,22 +1,22 @@
-#SISTEMAS DE GESTIÓN EMPRESARIAL 
-#CLASSNOTES
+# SISTEMAS DE GESTIÓN EMPRESARIAL 
+# CLASSNOTES
 ***
-#22-9-23
+# 22-9-23
 
-###CRM Y ERP
+### CRM Y ERP
 
 Definiciones. Usos de cada uno. Un CRM puede ser parte de un ERP en empresas grandes sobre todo.
 
 ![diapo1](img/Screenshot_from_2023-09-23_15-20-34.png)
 
-###ERP 
+### ERP 
 Toda la información pasa a formar parte de la cadena de valor de la compañía, se destruyen los chiringuitos. PROCESO END-TO-END, de extremo a extremo. 
 
 Raul es responsable de integración END TO END, integra toda la cadena hasta el final con todas las tecnologías y con todos los departamentos. Se acaba con los reinos de taifas en las empresas, por lo que al implantar ERP te encuentras con bastantes enemigos y gente en contra en la empresa. Habla de que hacen falta personas con un perfil de soft skills amplio y acentuado, habla de la certificación internaciioanl de gestion de proyectos PMP para ser director de proyectos. Esto no va solamente de saber programar. El ERP democratiza la gestión, acaba con directores chiringuiteros, opacidad en presupuestps. CEO de una empresa no tiene dudas en implantar ERP y gastarse una pasta porque el retorno de la inversión es rapido, se amortiza rápido, es una jugada segura.
 
 ![diapo2.1](img/Screenshot_from_2023-09-23_15-49-11.png)
 
-###CRM
+### CRM
 Procesos de venta sobre todo, todo lo relacionado con el cliente. 
 
 Podemos integrar muchas cosas: IoT (en zara cada vez que entras hay sensores que saben donde te paras a mirar por ejemplo), Inteligencia Artificial. Con eso recoger información, que son líneas calientes. Con esa información creamos BBDD con fines de marketing y prevision de ventas, tendencias, etc.
@@ -25,7 +25,7 @@ Salud de ventas: si el CRM va mal tus ventas van mal: Serio problema.
 
 ![diapo2.2](img/Screenshot_from_2023-09-23_17-01-07.png)
 
-###NOTAS
+### NOTAS
 Los dispositivos con el ASR con el procesamiento del lenguaje todo lo que hablas te sale despues en los anuncios en las busquedas. Es una realidad.
 Mundo cambiantes. Mueren grandes empresas nacen nuevas. OPENAI de chatgpt no la conocia nadie, ahora en number1 mundial. Google va camino de morir, está tocada de muerte (muerte de los buscadores con la IA, copilot. ÉL no usa buscador, usa copilot ya. En los buscadores hasta que encuentras algo que merece la pena tienes que buscar millones de cosas)
 
@@ -71,13 +71,13 @@ Un cliente muchas veces no sabe lo que necesita. Te plantea necesidades. Tu reco
 
 ### DILEMAS PROYECTO
 
-####1Software de mercado VS software customizado. 
+#### 1 Software de mercado VS software customizado. 
 
 El customizado puede ser de integración o de desarrollo. Ejemplo traje a medida,un clásico. EL sastre te lo va a ajustar a tus necesidades.
 
 Un software de mercado es mas barato, ahora, no se pueden hacer virguerías. Un salesforce de tipo SAAS en la nube por ejemplo. Es una solucion modular que baja la factura pero la funcionalidad es la que es.
 
-####2OnPremise VS Cloud
+#### 2 OnPremise VS Cloud
 
 On premise es en los CPDs del cliente (Centros de procesamiento de Datos, infraestructura e instalaciones propias). 
 
@@ -90,7 +90,7 @@ La LPD, la ley de portección de datos es importante para todos estos temas.
 ![diapo7](img/diapo7.png)
 
 
-####3.Soft Skills Jefe de Proyecto
+#### 3 Soft Skills Jefe de Proyecto
 
 Hemos hablado de ellas. Hay que tener toda la información del cliente y sacarla con mucho tacto.
 
@@ -121,7 +121,6 @@ Escalabilidad horizontal es clave. Amigable.
 SEGURO.
 
 ![diapo10](img/diapo10.png)
-
 
 ### TIPOS DE CRMS EN EL MERCADO
 
@@ -168,8 +167,6 @@ STAKEHOLDERS
 KPIS
 
 ![diapo15](img/diapo15.png)
-
-
 
 #### DESGLOSE DE TAREAS
 
