@@ -12,6 +12,7 @@ sudo chown odoo:odoo /opt/odoo/ -R
 sudo chown odoo:odoo /var/log/odoo/ -R
 sudo echo "odoo    ALL=(ALL:ALL) ALL" | sudo tee -a /etc/sudoers.d/custom-file
 sudo su odoo
+#Aqui se para al cambiar de usuario. Hay que copiar y pegar todo lo de abajo.
 cd /opt/odoo/odoo
 sudo pip3 install -r requirements.txt
 pip install PyPDF2==1.26.0
